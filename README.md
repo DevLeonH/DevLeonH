@@ -5,8 +5,10 @@
 ---
 
 ## 🧠 Über mich
-Ich bin aktuell dabei, mich beruflich neu zu orientieren und baue meine Skills im Bereich Entwicklung und IT aktiv aus.  
-Schon seit meiner Kindheit faszinieren mich Technik, Systeme und besonders alles rund um Automatisierung.
+Ich befinde mich aktuell in einer beruflichen Neuorientierung und baue meine Fähigkeiten im Bereich Softwareentwicklung und IT kontinuierlich aus.  
+Schon seit meiner Kindheit fasziniert mich Technik – besonders Systeme, Automatisierung und digitale Lösungen.
+
+Ein wichtiger Teil meiner Entwicklung ist meine Zeit bei der **Developer Akademie**, wo ich als Schüler praxisnahes Wissen in der Softwareentwicklung erlerne und stetig vertiefe.
 
 ---
 
@@ -30,15 +32,21 @@ Schon seit meiner Kindheit faszinieren mich Technik, Systeme und besonders alles
 - Weiterentwicklung als Developer
 - Eigene Projekte aufbauen
 - Saubere & sichere Systeme entwickeln
-- Praxis & Erfahrung sammeln
+- Praxiserfahrung sammeln
+
+---
+
+## 🎓 Ausbildung
+- 👨‍💻 Schüler der **Developer Akademie**  
+  → Fokus auf praxisnahe Softwareentwicklung, moderne Tools und Best Practices  
 
 ---
 
 ## 🔐 Sicherheit & Best Practices
-Ich achte besonders auf:
-- sichere Passwort-Verwaltung
-- keine sensiblen Daten im Code
-- strukturierte Projekte (.gitignore etc.)
+Ich lege großen Wert auf:
+- sichere Passwort-Verwaltung  
+- Schutz sensibler Daten  
+- strukturierte und wartbare Projekte (.gitignore, klare Architektur)  
 
 ---
 
@@ -48,8 +56,9 @@ Ich achte besonders auf:
 ---
 
 ## ⚡ Fun Fact
-Schon als Kind von Technik begeistert – heute setze ich das aktiv in Projekten um 🚀
+Schon als Kind von Technik begeistert – heute setze ich diese Leidenschaft aktiv in meinen Projekten um 🚀  
 
 ---
 
+⭐️ Schau dir gerne meine Projekte auf GitHub an!
 ⭐️ Schau dir gerne meine Projekte auf GitHub an!
