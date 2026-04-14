@@ -55,6 +55,13 @@ Ich lege großen Wert auf:
 
 ---
 
+## 📫 HelpDesk
+Gerne helfe ich bei Problemn weiter, einfach ein Tiket erföffnen.
+
+http://help.holmhey.bayern/
+
+---
+
 ## ⚡ Fun Fact
 Schon als Kind von Technik begeistert – heute setze ich diese Leidenschaft aktiv in meinen Projekten um 🚀  
 
